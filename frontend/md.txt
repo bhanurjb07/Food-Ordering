@@ -1,3 +1,0 @@
-React Based
-npm install
-react router
